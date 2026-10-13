@@ -1,40 +1,21 @@
 {
-  "name": "Your Name",
-  "description": "Add a short bio here, then swap these starter links for your own.",
-  "avatar": "/uploads/avatar-placeholder.svg",
+  "name": "Signfix Industrial Limited",
+  "title": "",
+  "description": "Premium Print and Signage Solutions",
+  "avatar": "/uploads/avatar.jpg",
   "showAttribution": true,
   "theme": {
-    "primary": "#6366F1",
-    "secondary": "#4F46E5",
+    "primary": "#aace46",
+    "secondary": "#aace46",
     "background": "#FFFFFF",
     "text": "#1F2937"
   },
   "links": [
     {
-      "title": "My Website",
-      "subtitle": "yourdomain.com",
-      "url": "https://example.com",
+      "title": "Visit Signfix Main Webpage",
+      "subtitle": "Welcome to Signfix Industrial Limited, your premium destination for high-quality print and signage solutions!",
+      "url": "https://signfix.ng/",
       "icon": "globe"
-    },
-    {
-      "title": "Instagram",
-      "subtitle": "@yourhandle",
-      "url": "https://instagram.com/yourhandle",
-      "icon": "instagram"
-    },
-    {
-      "title": "YouTube",
-      "subtitle": "Your channel",
-      "url": "https://youtube.com/@yourhandle",
-      "icon": "youtube"
-    },
-    {
-      "title": "Email me",
-      "subtitle": "you@yourdomain.com",
-      "url": "mailto:you@yourdomain.com",
-      "icon": "mail"
     }
-  ],
-  "metaTitle": "",
-  "metaDescription": ""
+  ]
 }
